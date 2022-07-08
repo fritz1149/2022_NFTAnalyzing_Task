@@ -1,0 +1,7 @@
+ar
+data:application/json;utf8
+data:text/plain;charset=utf-8
+data:application/json;base64
+ipfs
+http
+https

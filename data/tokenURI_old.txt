@@ -1,0 +1,2 @@
+https://api.fluf.world/api/token/0
+https://api.copebear.lol/metadata/0
